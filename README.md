@@ -1,0 +1,2 @@
+# eulerProjectSolutions
+My solutions 
